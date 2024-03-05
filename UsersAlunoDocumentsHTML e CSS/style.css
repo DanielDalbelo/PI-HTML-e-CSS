@@ -12,8 +12,8 @@
     text-emphasis-color: blue;
     background-color: yellow;
     font-size: 20px;
-    font-family: monospace;
-    font-style: bold;
+    font-family: sans-serif;
+    font-style: italic;
 }
 .divD{
     width: 60%;
